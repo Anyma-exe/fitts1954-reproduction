@@ -104,10 +104,10 @@ That turned out to be a better learning experience than expected.
 
 ## References
 
-- Fitts, P. M. (1954). The information capacity of the human motor system in controlling the amplitude of movement. *Journal of Experimental Psychology, 47*(6), 381–391.
-- MacKenzie, I. S. (1992). Fitts' law as a research and design tool in human-computer interaction. *Human-Computer Interaction, 7*(1), 91–139.
-- Soukoreff, R. W., & MacKenzie, I. S. (2004). Towards a standard for pointing device evaluation. *International Journal of Human-Computer Studies, 61*(6), 751–789.
-- ReScience C — http://rescience.github.io
+- Fitts, P. M. (1954). The information capacity of the human motor system in controlling the amplitude of movement. *Journal of Experimental Psychology, 47*(6), 381–391 - https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0055392
+- MacKenzie, I. S. (1992). Fitts' law as a research and design tool in human-computer interaction. *Human-Computer Interaction, 7*(1), 91–139 - https://www.tandfonline.com/doi/abs/10.1207/s15327051hci0701_3
+- Soukoreff, R. W., & MacKenzie, I. S. (2004). Towards a standard for pointing device evaluation. *International Journal of Human-Computer Studies, 61*(6), 751–789 - https://www.sciencedirect.com/science/article/abs/pii/S1071581904001016?via%3Dihub
+- ReScience C - http://rescience.github.io
 
 ---
 
