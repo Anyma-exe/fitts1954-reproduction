@@ -1,6 +1,9 @@
 # fitts1954-reproduction
 
 > Replicating the figure that launched a thousand touchscreens. A hands-on reproduction of Fitts (1954) in Python.
+[
+![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
+](https://colab.research.google.com/drive/18AUciiLZpwrD0ZU9x50PGlHv8vY8xy1Y?usp=sharing)
 
 ---
 
