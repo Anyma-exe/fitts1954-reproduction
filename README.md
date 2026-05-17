@@ -22,7 +22,8 @@ The target is **Figure 2** from the original paper: a scatter plot of Movement T
 
 | Original (Fitts, 1954) | This replication |
 |---|---|
-| *(Figure 2 from the paper)* | ![Reproduced figure](figures/scatter-plot) |
+| *Not reproduced here for copyright reasons* | ![Reproduced figure](figures/scatter-plot) |
+| *See Fitts (1954), Figure 2. DOI: 10.1037/h0055392* | |
 
 ### Results at a glance
 
