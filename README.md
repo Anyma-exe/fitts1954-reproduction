@@ -13,7 +13,7 @@
 
 Psychologist Paul Fitts made a bet : that human movement could be described mathematically. Not approximately, not qualitatively but **precisely**, using the same information theory Shannon had just applied to communication channels.
 
-He was right ! His model — now called **Fitts' Law** — predicts how long it takes to move toward a target from just two measurements: distance and width. It has since survived decades of replication across mice, touchscreens, robotic arms, eye trackers, and even brain-computer interfaces.
+He was right ! His model which is now called **Fitts' Law** predicts how long it takes to move toward a target from just two measurements: distance and width. It has since survived decades of replication across mice, touchscreens, robotic arms, eye trackers, and even brain-computer interfaces.
 
 This project picks up that 1954 paper, extracts its data, and **rebuilds the core figure from scratch** — regression line, throughput, the works. Not to prove Fitts right (he is), but to practice what good science actually looks like: transparent methods, honest comparison, and documented reasoning.
 
@@ -95,7 +95,7 @@ Dependencies if running locally: `numpy`, `pandas`, `matplotlib`, `scipy`.
 
 ---
 
-## V. Why this, why now
+## V. Why working on Fitts now ?
 
 This project sits at the intersection of two things : an interest in scientific reproducibility, and a practical need to deeply understand the metrics behind **[NeuralTrack](https://github.com/)** — a web-based cognitive experiment that uses Fitts' Law as its measurement backbone.
 
